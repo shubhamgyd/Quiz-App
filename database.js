@@ -117,7 +117,23 @@ const database = {
     },
   ],
   Solutions: [
-    "d", "a", "c", "a", "d", "d", "b", "a", "b", "c", "c"
+    "d", "a", "c", "a", "a", "d", "b", "a", "b", "c", "c"
+  ],
+  LeaderBoard: [
+    {
+      name: "ayush",
+      score: 3,
+
+    },
+    {
+      name: "vedant",
+      score: 5,
+
+    },
+    {
+      name: "shubham",
+      score: 4
+    }
   ]
 };
 
